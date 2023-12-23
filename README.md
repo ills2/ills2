@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ills2
 - 👀 I’m interested in programming and playing Minecraft.
 - 🌱 I'm currently on a journey to learn how to create a Minecraft mod.
-- 📫 You can reach me at [ills2@qq.com](ills2@qq.com).
+- 📫 You can reach me at [ills2@qq.com](mailto:ills2@qq.com).
